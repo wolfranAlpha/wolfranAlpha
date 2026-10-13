@@ -19,8 +19,3 @@ Software team lead, R&D group manager and software architect based in Israel, ha
 ### Stack
 
 Python (FastAPI, Django) · TypeScript / Node.js (NestJS) · C# / .NET · RabbitMQ · MongoDB · Docker · Kubernetes · Helm · React
-
-
-### Stack
-
-Python (FastAPI, Django) · TypeScript / Node.js (NestJS) · C# / .NET · RabbitMQ · MongoDB · Docker · Kubernetes · Helm · React
