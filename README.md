@@ -1,7 +1,8 @@
 # Hi, I'm Ran! 👋
 
-Backend engineer and software architect based in Israel.
-I've spent the last nine years building mission-critical distributed systems as a developer, then leading teams and groups of up to 36 engineers while staying close to the design and the code.
+R&D team lead, group manager and software architect based in Israel, hands-on in backend.
+I've spent the last nine years building mission-critical distributed systems: four years as a developer, then leading teams and groups of up to 36 people while staying close to the design and the code.
+
 
 ### What I've worked on
 
