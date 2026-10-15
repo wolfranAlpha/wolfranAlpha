@@ -16,6 +16,10 @@ Software team lead, R&D group manager and software architect based in Israel, ha
 - Taking legacy systems apart without stopping them.
 - AI-assisted development. I run my own agent-based assistant on Claude Code, with custom skills, scoped subagents and MCP connectors.
 
+### Currently working on
+
+- A "Dark Factory" of agents running on AWS over github issues.
+
 ### Stack
 
 Python (FastAPI, Django) · TypeScript / Node.js (NestJS) · C# / .NET · RabbitMQ · MongoDB · Docker · Kubernetes · Helm · React
